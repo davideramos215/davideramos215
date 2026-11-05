@@ -46,3 +46,30 @@ I lead the physical fabrication and mechanical systems integration for a 5-membe
 * Handled troubleshooting, tear-downs, and root-cause overhauls for more than 50 units of small-engine machinery, including cultivators, tillers, chainsaws, and pumps.
 * Executed preventative and corrective overhauls on operational ranch vehicles, including dampening systems replacement, fluid optimization, and low-voltage electrical updates.
 * Completed structural renovations and load-bearing framing adaptations for agricultural outbuildings.
+
+
+## Additional Mechanical Design Projects
+
+### Project 1: Single Cylinder Engine Assembly & Component Design
+*Engineering Graphics Project | SolidWorks & GD&T Validation*
+
+<p align="center">
+  <img src="engine_assembly.png" width="45%" alt="Engine Cross Section" /> 
+  <img src="crankshaft_drawing.png" width="45%" alt="Technical Component Drawing" />
+</p>
+
+* **System Design:** Modeled a complete single-cylinder internal combustion engine assembly, specifying high-strength alloys and cast irons (Aluminum 2014-T6, Steel AISI 4340, Cast Iron) to withstand thermal and mechanical stresses.
+* **Geometric Tolerancing & GD&T:** Developed full 2D engineering drawings for complex geometries including the crankshaft and engine block, ensuring precise feature control frames, concentricity, and mating clearances.
+* **Mass & Structural Properties:** Calculated dynamic component weights (e.g., 880g Piston Head, 3.61kg Crankshaft) to analyze structural balance and ensure operational alignment.
+
+### Project 2: Trammel of Archimedes Kinetic Mechanism
+*Kinematic Modeling & Mechanical Tolerancing*
+
+<p align="center">
+  <img src="trammel_assembly.png" width="45%" alt="Trammel Mechanism View" /> 
+  <img src="trammel_base.png" width="45%" alt="Trammel Base Dimensioning" />
+</p>
+
+* **Mechanism Design:** Engineered a multi-axis Trammel of Archimedes linkage assembly utilizing sliding channels to convert rotary motion into linear geometric pathing.
+* **Material & Manufacturing Strategy:** Specified exact material constraints across sliding interfaces, contrasting high-mass ABS plastic bases (709g) with lightweight low-friction Polyimide slider mechanisms.
+* **Angular Precision:** Mapped precise 60-degree radial symmetry channels with exact tolerancing to prevent kinematic binding during high-speed rotation.

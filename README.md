@@ -54,8 +54,8 @@ I lead the physical fabrication and mechanical systems integration for a 5-membe
 *Engineering Graphics Project | SolidWorks & GD&T Validation*
 
 <p align="center">
-  <img src="engine_assembly.png" width="45%" alt="Engine Cross Section" /> 
-  <img src="crankshaft_drawing.png" width="45%" alt="Technical Component Drawing" />
+  <img src="IMG_1321.png" width="45%" alt="Engine Cross Section" /> 
+  <img src="IMG_1322.png" width="45%" alt="Technical Component Drawing" />
 </p>
 
 * **System Design:** Modeled a complete single-cylinder internal combustion engine assembly, specifying high-strength alloys and cast irons (Aluminum 2014-T6, Steel AISI 4340, Cast Iron) to withstand thermal and mechanical stresses.
@@ -66,8 +66,8 @@ I lead the physical fabrication and mechanical systems integration for a 5-membe
 *Kinematic Modeling & Mechanical Tolerancing*
 
 <p align="center">
-  <img src="trammel_assembly.png" width="45%" alt="Trammel Mechanism View" /> 
-  <img src="trammel_base.png" width="45%" alt="Trammel Base Dimensioning" />
+  <img src="IMG_1323.png" width="45%" alt="Trammel Mechanism View" /> 
+  <img src="IMG_1324.png" width="45%" alt="Trammel Base Dimensioning" />
 </p>
 
 * **Mechanism Design:** Engineered a multi-axis Trammel of Archimedes linkage assembly utilizing sliding channels to convert rotary motion into linear geometric pathing.
